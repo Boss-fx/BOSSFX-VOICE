@@ -150,7 +150,7 @@ We report these openly, as the N-ATLaS terms ask:
 | **Timilehin Shobande** | Team Lead & AI Engineer. Founder/CEO, BFX Academy LTD; B.Sc. Computer Science, University of Lagos |
 | **Shuaib Hauwa** | Community & User Validation Lead. Social Media & Customer Support, BFX Academy LTD |
 
-🌐 [bossfxacademy.com](https://bossfxacademy.com)
+🌐 [bossfxcademy.com](https://bossfxcademy.com)
 
 ---
 
